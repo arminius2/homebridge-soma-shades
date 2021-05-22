@@ -33,7 +33,7 @@
 		"Blind"
 	],
 	"dependencies": {
-		 "noble-mac": "https://github.com/Timeular/noble-mac.git",
+		 "noble-mac": "https://github.com/Timeular/noble-mac.git"
 	},
 	"devDependencies": {
 		"@types/node": "^14.14.6",
